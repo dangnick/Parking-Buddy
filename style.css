@@ -1,0 +1,54 @@
+table#mainparking{
+    background-color: black;
+    border: 0;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+td.topspace{
+
+    border-right: 5px soild #fff;
+    border-left: 5px soild #fff;
+    border-bottom: 5px soild #fff;
+    width: 100px;
+    font-family: Century;
+    text-align: Century;
+    vertical-align: middle;
+    background-color: green;
+    height:200px;
+}
+
+td.bottomspace{
+    
+    border-right: 5px soild #fff;
+    border-left: 5px soild #fff;
+    border-bottom: 5px soild #fff;
+    width: 100px;
+    font-family: Century;
+    text-align: Century;
+    vertical-align: middle;
+    background-color: green;
+    height:200px;
+
+
+}
+
+table.topparking{
+    background-color: gray;
+    width:1500px;
+    height:100px;
+    vertical-align: center;
+    horizontal-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.bottomparking{
+    background-color: gray;
+    width:1500px;
+    height:100px;
+    margin-left: auto;
+    margin-right: auto;
+}
